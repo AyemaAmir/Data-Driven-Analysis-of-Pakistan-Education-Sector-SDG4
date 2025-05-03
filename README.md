@@ -22,7 +22,7 @@ This project provides an in-depth exploration of Pakistan’s education landscap
 - **Categorical Data Analysis**
 ---
 
-## 🔍 Key Insights (Concise)
+## 🔍 Key Insights
 
 | Category | Insight |
 |---------|---------|
